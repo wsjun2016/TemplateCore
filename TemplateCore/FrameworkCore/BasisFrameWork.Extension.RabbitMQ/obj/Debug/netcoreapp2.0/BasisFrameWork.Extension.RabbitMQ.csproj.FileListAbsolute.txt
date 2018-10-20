@@ -1,0 +1,10 @@
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.deps.json
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.dll
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.pdb
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\bin\Debug\netcoreapp2.0\BasisFrameWork.dll
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\bin\Debug\netcoreapp2.0\BasisFrameWork.pdb
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.csproj.CoreCompileInputs.cache
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.AssemblyInfoInputs.cache
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.AssemblyInfo.cs
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.dll
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.RabbitMQ.pdb

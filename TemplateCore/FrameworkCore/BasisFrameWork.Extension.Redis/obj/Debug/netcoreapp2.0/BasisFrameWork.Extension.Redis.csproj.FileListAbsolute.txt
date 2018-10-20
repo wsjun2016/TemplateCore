@@ -1,0 +1,8 @@
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.deps.json
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.dll
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.pdb
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.csproj.CoreCompileInputs.cache
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.AssemblyInfoInputs.cache
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.AssemblyInfo.cs
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.dll
+G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.Redis\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.Redis.pdb
