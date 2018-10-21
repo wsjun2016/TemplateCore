@@ -9,6 +9,7 @@
     <ProjectReference Include="..\FrameworkCore\BasisFrameWork.Extension.Hangfire\BasisFrameWork.Extension.Hangfire.csproj" />
     <ProjectReference Include="..\FrameworkCore\BasisFrameWork.Extension.RabbitMQ\BasisFrameWork.Extension.RabbitMQ.csproj" />
     <ProjectReference Include="..\FrameworkCore\BasisFrameWork.Extension.Redis\BasisFrameWork.Extension.Redis.csproj" />
+    <ProjectReference Include="..\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\BasisFrameWork.Extension.SqlSugarCore.csproj" />
     <ProjectReference Include="..\FrameworkCore\BasisFrameWork.Utilities\BasisFrameWork.Utilities.csproj" />
     <ProjectReference Include="..\FrameworkCore\BasisFrameWork\BasisFrameWork.csproj" />
   </ItemGroup>

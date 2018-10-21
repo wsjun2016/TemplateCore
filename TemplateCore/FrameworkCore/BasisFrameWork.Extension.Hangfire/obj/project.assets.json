@@ -2679,11 +2679,10 @@
       ]
     },
     "Hangfire.SqlServer/1.6.20": {
-      "sha512": "m49CbBNH7xouvK+j873PAcI+ODdgVJMqXeoWXc21qkbusGBzIU32faa1fGnIjC+PUgGLTVextlalovqLNKSJlQ==",
+      "sha512": "8lFVl/tNqYHWddBKxUtbOdq9Muf33RDOF7heJuo4JZXApuDqto4PfYbBCm9y5WQwtJ+ZVEyNeJcJD7m84tu43w==",
       "type": "package",
       "path": "hangfire.sqlserver/1.6.20",
       "files": [
-        ".signature.p7s",
         "COPYING",
         "COPYING.LESSER",
         "LICENSE.md",
@@ -2722,11 +2721,10 @@
       ]
     },
     "Microsoft.AspNetCore.Antiforgery/1.0.0": {
-      "sha512": "PoYtUAtXjupFe8L6vgPBPLuSc3IWq1TGQ9I1Cxz02WiApc7X74coLkcbEd6kF05TH/CsBXqFdNTXRDT8Mny5CA==",
+      "sha512": "oJnrSvL6S7jM2eD/TR/Kyp/7O6pKvN+8FcnYvUaxaHbKlISwl98o44uidzePBjGxTf4fh9NFEx/q3OuuxAvBzw==",
       "type": "package",
       "path": "microsoft.aspnetcore.antiforgery/1.0.0",
       "files": [
-        ".signature.p7s",
         "lib/net451/Microsoft.AspNetCore.Antiforgery.dll",
         "lib/net451/Microsoft.AspNetCore.Antiforgery.xml",
         "lib/netstandard1.3/Microsoft.AspNetCore.Antiforgery.dll",
@@ -2923,7 +2921,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.1": {
-      "sha512": "PW1596sF97gpIc1JuUuYvTmeLfeqC5whbWPsWgJhN0fdwz683him3b/HB0dqhFesVssOjnnA0fEz4+S0gUeBqA==",
+      "sha512": "R44kCSYpeZ8JmEb+SLWVdi3RttxuisvCB93zcGVU/menrIEY3klRFAH0dXyyUKmNZrUnxFJVuaVdkEuEsQ9EtA==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.1",
       "files": [
@@ -7760,28 +7758,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\wsjun\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj",
+      "projectUniqueName": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj",
       "projectName": "BasisFrameWork.Extension.Hangfire",
-      "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\obj\\",
+      "projectPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj",
+      "packagesPath": "C:\\Users\\wsjun\\.nuget\\packages\\",
+      "outputPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wsjun\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -7795,8 +7790,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
+            "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
+              "projectPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
             }
           }
         }

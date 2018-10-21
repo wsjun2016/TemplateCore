@@ -9,3 +9,15 @@ G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\ob
 G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.AssemblyInfo.cs
 G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.dll
 G:\vs2017\Play\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.pdb
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.deps.json
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.dll
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.pdb
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\bin\Debug\netcoreapp2.0\BasisFrameWork.dll
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\bin\Debug\netcoreapp2.0\BasisFrameWork.pdb
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.csprojResolveAssemblyReference.cache
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.csproj.CoreCompileInputs.cache
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.AssemblyInfoInputs.cache
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.AssemblyInfo.cs
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.csproj.CopyComplete
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.dll
+E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.AutoMapper\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.AutoMapper.pdb
