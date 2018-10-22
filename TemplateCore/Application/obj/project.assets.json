@@ -8255,11 +8255,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "G:\\vs2017\\Play\\TemplateCore\\Application\\Application.csproj",
+      "projectUniqueName": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "G:\\vs2017\\Play\\TemplateCore\\Application\\Application.csproj",
+      "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\vs2017\\Play\\TemplateCore\\Application\\obj\\",
+      "outputPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -8280,23 +8280,23 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Redis\\BasisFrameWork.Extension.Redis.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Redis\\BasisFrameWork.Extension.Redis.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Redis\\BasisFrameWork.Extension.Redis.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Redis\\BasisFrameWork.Extension.Redis.csproj"
             },
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Utilities\\BasisFrameWork.Utilities.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Utilities\\BasisFrameWork.Utilities.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Utilities\\BasisFrameWork.Utilities.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Utilities\\BasisFrameWork.Utilities.csproj"
             },
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.Hangfire\\BasisFrameWork.Extension.Hangfire.csproj"
             },
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj"
             },
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.AutoMapper\\BasisFrameWork.Extension.AutoMapper.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.AutoMapper\\BasisFrameWork.Extension.AutoMapper.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.AutoMapper\\BasisFrameWork.Extension.AutoMapper.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.AutoMapper\\BasisFrameWork.Extension.AutoMapper.csproj"
             },
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
             }
           }
         }

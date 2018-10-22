@@ -6899,11 +6899,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj",
+      "projectUniqueName": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj",
       "projectName": "BasisFrameWork.Extension.RabbitMQ",
-      "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj",
+      "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\obj\\",
+      "outputPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -6924,8 +6924,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
-              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
             }
           }
         }
