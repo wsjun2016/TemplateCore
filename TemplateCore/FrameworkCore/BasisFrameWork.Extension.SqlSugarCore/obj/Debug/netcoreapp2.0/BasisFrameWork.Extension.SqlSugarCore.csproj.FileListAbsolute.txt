@@ -7,3 +7,12 @@ E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.
 E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.pdb
 E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.dll
 E:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.pdb
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.deps.json
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.dll
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\bin\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.pdb
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.csprojResolveAssemblyReference.cache
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.csproj.CoreCompileInputs.cache
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.AssemblyInfoInputs.cache
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.AssemblyInfo.cs
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.dll
+G:\vs2017\Play\TemplateCore\TemplateCore\FrameworkCore\BasisFrameWork.Extension.SqlSugarCore\obj\Debug\netcoreapp2.0\BasisFrameWork.Extension.SqlSugarCore.pdb
