@@ -5595,7 +5595,8 @@
           "BasisFrameWork.Extension.Hangfire": "1.0.0",
           "BasisFrameWork.Extension.RabbitMQ": "1.0.0",
           "BasisFrameWork.Extension.Redis": "1.0.0",
-          "BasisFrameWork.Utilities": "1.0.0"
+          "BasisFrameWork.Utilities": "1.0.0",
+          "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.SqlSugarCore\\BasisFrameWork.Extension.SqlSugarCore.csproj": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -14661,5 +14662,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "找不到“G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.SqlSugarCore\\BasisFrameWork.Extension.SqlSugarCore.csproj”的项目信息。项目文件可能无效或可能缺少还原必需的目标。",
+      "libraryId": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.SqlSugarCore\\BasisFrameWork.Extension.SqlSugarCore.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }

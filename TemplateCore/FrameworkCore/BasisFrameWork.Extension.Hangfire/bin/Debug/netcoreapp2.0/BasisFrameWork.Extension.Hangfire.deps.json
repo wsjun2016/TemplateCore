@@ -1736,7 +1736,7 @@
     "Hangfire.SqlServer/1.6.20": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-m49CbBNH7xouvK+j873PAcI+ODdgVJMqXeoWXc21qkbusGBzIU32faa1fGnIjC+PUgGLTVextlalovqLNKSJlQ==",
+      "sha512": "sha512-8lFVl/tNqYHWddBKxUtbOdq9Muf33RDOF7heJuo4JZXApuDqto4PfYbBCm9y5WQwtJ+ZVEyNeJcJD7m84tu43w==",
       "path": "hangfire.sqlserver/1.6.20",
       "hashPath": "hangfire.sqlserver.1.6.20.nupkg.sha512"
     },
@@ -1750,7 +1750,7 @@
     "Microsoft.AspNetCore.Antiforgery/1.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-PoYtUAtXjupFe8L6vgPBPLuSc3IWq1TGQ9I1Cxz02WiApc7X74coLkcbEd6kF05TH/CsBXqFdNTXRDT8Mny5CA==",
+      "sha512": "sha512-oJnrSvL6S7jM2eD/TR/Kyp/7O6pKvN+8FcnYvUaxaHbKlISwl98o44uidzePBjGxTf4fh9NFEx/q3OuuxAvBzw==",
       "path": "microsoft.aspnetcore.antiforgery/1.0.0",
       "hashPath": "microsoft.aspnetcore.antiforgery.1.0.0.nupkg.sha512"
     },
@@ -1834,7 +1834,7 @@
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-PW1596sF97gpIc1JuUuYvTmeLfeqC5whbWPsWgJhN0fdwz683him3b/HB0dqhFesVssOjnnA0fEz4+S0gUeBqA==",
+      "sha512": "sha512-R44kCSYpeZ8JmEb+SLWVdi3RttxuisvCB93zcGVU/menrIEY3klRFAH0dXyyUKmNZrUnxFJVuaVdkEuEsQ9EtA==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.1",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512"
     },
