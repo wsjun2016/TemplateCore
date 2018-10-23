@@ -65,7 +65,13 @@ namespace TemplateCore
             services.AddCSRedis();
 
             //配置RabbitMQOption
-            services.Configure<RabbitMQOption>(DefaultConfiguration.Configuration.GetSection("RabbitMq"));
+            //services.Configure<RabbitMQOption>(DefaultConfiguration.Configuration.GetSection("RabbitMq"));
+            services.AddRabbitMQ(x => {
+                x.HostName = "localhost";
+                x.Password = "123456";
+                x.UserName = "ty2017";
+                x.VirtualHost = "log";
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
