@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Application.Services;
+using Application.Services.Dto;
 using BasisFrameWork.Extension;
 using BasisFrameWork.Utilities.Http;
 using Microsoft.AspNetCore.Hosting;
@@ -26,6 +27,13 @@ namespace TemplateCore.Controllers
         public async Task<string> Get() {
             //var data = Utility.Current.Request.Host;
             return await _dictionaryService.Get();
+        }
+
+        [HttpPost("v1/set")]
+        public async Task<JsonResult> Set([FromBody] InputDto input)
+        {
+
+            return await Task.FromResult(Json(input));
         }
 
         // GET api/values

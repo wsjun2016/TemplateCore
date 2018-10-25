@@ -20,6 +20,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.Extensions.PlatformAbstractions;
 using Swashbuckle.Swagger.Model;
+using TemplateCore.Filters;
 
 namespace TemplateCore
 {
@@ -34,7 +35,7 @@ namespace TemplateCore
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
+            services.AddMvc(option => { option.Filters.Add<ValidationFilter>(); });
 
             services.AddSwaggerGen();
             services.ConfigureSwaggerGen(options =>
