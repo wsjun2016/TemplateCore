@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
+using Application.ModelBinder;
 using BasisFrameWork.Attribute;
 using BasisFrameWork.Extension;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Application.Services.Dto {
 
@@ -73,5 +75,19 @@ namespace Application.Services.Dto {
         //结束时间
         [GreaterOrEqual(nameof(BeginDate))]
         public DateTime? EndDate { get; set; } = DateTime.Now;
+    }
+
+   
+    public class ComplexTypeInputDto
+    {
+        public string Id { get; set; }
+        public string Name { get; set; }
+       // [ModelBinder(typeof(SplitDateTimeModelBinder))]
+        public DateTime AppointmentDate { get; set; }
+    }
+
+    public class HeaderMessage
+    {
+        public string Domain { get; set; }
     }
 }

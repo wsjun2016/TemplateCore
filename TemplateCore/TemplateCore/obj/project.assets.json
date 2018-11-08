@@ -2074,10 +2074,10 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.SqlServer.dll": {}
         }
       },
-      "Microsoft.Extensions.Configuration/2.0.0": {
+      "Microsoft.Extensions.Configuration/2.1.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "2.0.0"
+          "Microsoft.Extensions.Configuration.Abstractions": "2.1.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
@@ -2113,10 +2113,10 @@
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.AzureKeyVault.dll": {}
         }
       },
-      "Microsoft.Extensions.Configuration.Binder/2.0.0": {
+      "Microsoft.Extensions.Configuration.Binder/2.1.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Configuration": "2.0.0"
+          "Microsoft.Extensions.Configuration": "2.1.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {}
@@ -2512,13 +2512,13 @@
           "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
         }
       },
-      "Microsoft.Extensions.Options.ConfigurationExtensions/2.0.0": {
+      "Microsoft.Extensions.Options.ConfigurationExtensions/2.1.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "2.0.0",
-          "Microsoft.Extensions.Configuration.Binder": "2.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0",
-          "Microsoft.Extensions.Options": "2.0.0"
+          "Microsoft.Extensions.Configuration.Abstractions": "2.1.1",
+          "Microsoft.Extensions.Configuration.Binder": "2.1.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.1",
+          "Microsoft.Extensions.Options": "2.1.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {}
@@ -5805,7 +5805,8 @@
           "BasisFrameWork.Extension.RabbitMQ": "1.0.0",
           "BasisFrameWork.Extension.Redis": "1.0.0",
           "BasisFrameWork.Extension.SqlSugarCore": "1.0.0",
-          "BasisFrameWork.Utilities": "1.0.0"
+          "BasisFrameWork.Utilities": "1.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.0.2"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -5865,6 +5866,7 @@
         "dependencies": {
           "BasisFrameWork": "1.0.0",
           "Microsoft.Extensions.Options": "2.1.1",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "2.1.1",
           "RabbitMQ.Client": "5.1.0"
         },
         "compile": {
@@ -6088,10 +6090,11 @@
       ]
     },
     "Hangfire.SqlServer/1.6.20": {
-      "sha512": "8lFVl/tNqYHWddBKxUtbOdq9Muf33RDOF7heJuo4JZXApuDqto4PfYbBCm9y5WQwtJ+ZVEyNeJcJD7m84tu43w==",
+      "sha512": "m49CbBNH7xouvK+j873PAcI+ODdgVJMqXeoWXc21qkbusGBzIU32faa1fGnIjC+PUgGLTVextlalovqLNKSJlQ==",
       "type": "package",
       "path": "hangfire.sqlserver/1.6.20",
       "files": [
+        ".signature.p7s",
         "COPYING",
         "COPYING.LESSER",
         "LICENSE.md",
@@ -6597,7 +6600,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Abstractions/2.1.1": {
-      "sha512": "4m4tS4xlHlFWeYLcdeg82k+gK3lDxKBRdbb8GflXUL8+RJbhluour/2yYEqElWdY5iV7SnAk7U6c5PwSXG8ZEA==",
+      "sha512": "0TPQgjRy2xJ75GcK18vvrT6/zCtSAWUEBSskSJN/lY0zuvQx2or8lzwr0TdKyMNK8A8MLP4QMLPqL9NOAxe0yg==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.abstractions/2.1.1",
       "files": [
@@ -6620,7 +6623,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Features/2.1.1": {
-      "sha512": "MSiogHFrivzpNE6tG1QcQ81tHnbg61cR07Q/thWZh8uFnCTVe1hZPSatMxBd4BoMCKKPQkVu6+zH8K2ExUCa9g==",
+      "sha512": "cMnTXRH+8T7GLht6cXRCMmN1HaYfXti2WEUdXqMUuyJgi4oH9cmzW4nECSBkQjsCs5O06BphyDDDAsTW/zQmpg==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.features/2.1.1",
       "files": [
@@ -7582,10 +7585,11 @@
       ]
     },
     "Microsoft.Extensions.Caching.Memory/2.0.0": {
-      "sha512": "NqvVdYLbX7N2J2Wz9y3zjhE66JRdROiZZsGhA2u4a9IcIq/jzINC/cLM96BHA+TSOZFPxVdWneqB6/yt9u846A==",
+      "sha512": "IioDBaPhJPU5qb5JIdYpktx+KIDDMfUqFlrzWcPoyvLKrwuIxA/wvGllMN3XqVPGkHaXw4CEqrgzwNjE9lrg5Q==",
       "type": "package",
       "path": "microsoft.extensions.caching.memory/2.0.0",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml",
         "microsoft.extensions.caching.memory.2.0.0.nupkg.sha512",
@@ -7614,14 +7618,15 @@
         "microsoft.extensions.caching.sqlserver.nuspec"
       ]
     },
-    "Microsoft.Extensions.Configuration/2.0.0": {
-      "sha512": "SsI4RqI8EH00+cYO96tbftlh87sNUv1eeyuBU1XZdQkG0RrHAOjWgl7P0FoLeTSMXJpOnfweeOWj2d1/5H3FxA==",
+    "Microsoft.Extensions.Configuration/2.1.1": {
+      "sha512": "VVYOfsEO/kjpMiXfSVV6zDV0jOzM7y9rpWqPRNfkHidGJlZbut9OW4ehgBb82h5al0cpQoeNBqFKJZ2Q8/qwHQ==",
       "type": "package",
-      "path": "microsoft.extensions.configuration/2.0.0",
+      "path": "microsoft.extensions.configuration/2.1.1",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
-        "microsoft.extensions.configuration.2.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.2.1.1.nupkg.sha512",
         "microsoft.extensions.configuration.nuspec"
       ]
     },
@@ -7648,14 +7653,15 @@
         "microsoft.extensions.configuration.azurekeyvault.nuspec"
       ]
     },
-    "Microsoft.Extensions.Configuration.Binder/2.0.0": {
-      "sha512": "IznHHzGUtrdpuQqIUdmzF6TYPcsYHONhHh3o9dGp39sX/9Zfmt476UnhvU0UhXgJnXXAikt/MpN6AuSLCCMdEQ==",
+    "Microsoft.Extensions.Configuration.Binder/2.1.1": {
+      "sha512": "+vDAcyObAU3mw7Lt9ht8pytlXKlqZ4pAXG5REWJIXkRtdf5juCuAepAEcCRbHz5o9LesS+iuFNifTyHmFdxrVQ==",
       "type": "package",
-      "path": "microsoft.extensions.configuration.binder/2.0.0",
+      "path": "microsoft.extensions.configuration.binder/2.1.1",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.xml",
-        "microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
         "microsoft.extensions.configuration.binder.nuspec"
       ]
     },
@@ -7749,7 +7755,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.1": {
-      "sha512": "R44kCSYpeZ8JmEb+SLWVdi3RttxuisvCB93zcGVU/menrIEY3klRFAH0dXyyUKmNZrUnxFJVuaVdkEuEsQ9EtA==",
+      "sha512": "PW1596sF97gpIc1JuUuYvTmeLfeqC5whbWPsWgJhN0fdwz683him3b/HB0dqhFesVssOjnnA0fEz4+S0gUeBqA==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.1",
       "files": [
@@ -8010,14 +8016,15 @@
         "microsoft.extensions.options.nuspec"
       ]
     },
-    "Microsoft.Extensions.Options.ConfigurationExtensions/2.0.0": {
-      "sha512": "Y/lGICwO27fCkQRK3tZseVzFjZaxfGmui990E67sB4MuiPzdJHnJDS/BeYWrHShSSBgCl4KyKRx4ux686fftPg==",
+    "Microsoft.Extensions.Options.ConfigurationExtensions/2.1.1": {
+      "sha512": "wwTMUs4gLzUYvHDCH+NYgjaSClX0I6Xo3fMzozXE49hxVpArdZ6UKdnhTU+TXQI9c2Y2x4GiRQUNvCbfBk/nhQ==",
       "type": "package",
-      "path": "microsoft.extensions.options.configurationextensions/2.0.0",
+      "path": "microsoft.extensions.options.configurationextensions/2.1.1",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
-        "microsoft.extensions.options.configurationextensions.2.0.0.nupkg.sha512",
+        "microsoft.extensions.options.configurationextensions.2.1.1.nupkg.sha512",
         "microsoft.extensions.options.configurationextensions.nuspec"
       ]
     },
@@ -10040,10 +10047,11 @@
       ]
     },
     "System.Collections.Immutable/1.4.0": {
-      "sha512": "71hw5RUJRu5+q/geUY69gpXD8Upd12cH+F3MwpXV2zle7Bqqkrmc1JblOTuvUcgmdnUtQvBlV5e1d6RH+H2lvA==",
+      "sha512": "tmNm+CvE8Wzt3dtghUNi9ur8R1N2EUltwEBQ4nr70nhzUI9wrR1fJw0rtydtFCUktXVJHPcF5hy8s8ixVmx+8w==",
       "type": "package",
       "path": "system.collections.immutable/1.4.0",
       "files": [
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netcoreapp2.0/_._",
@@ -13293,10 +13301,11 @@
       ]
     },
     "System.Runtime.InteropServices.RuntimeInformation/4.3.0": {
-      "sha512": "cbz4YJMqRDR7oLeMRbdYv7mYzc++17lNhScCX0goO2XpGWdvAt60CGN+FHdePUEHCe/Jy9jUlvNAiNdM+7jsOw==",
+      "sha512": "p0Ks5JJnrUJbbJUBoTRyEdd8dvbjZywKxkmwl1ldjyu767RxUG9+wZGsSN1c8SMiJ8zfvsoO2flilpHKYZtWkg==",
       "type": "package",
       "path": "system.runtime.interopservices.runtimeinformation/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -13381,10 +13390,11 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "sha512": "W4UqymabiCb1xxuKrspJCzCHW95VZQ3GCmzpDYHvJxVUvPY2siwU4A5rPu8ERaRPUvQRaO3jdX8Gr+oe5Y4JCA==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -13465,10 +13475,11 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
+      "sha512": "UnJ3PmpZrW8Tife2B4q+5BCLpIJZohjGpUCX3YggKodMD9b9iKgFzPCZeaBnOKupvbnl3i5X//NR9ao97H2c7g==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -13574,10 +13585,11 @@
       ]
     },
     "System.Security.Claims/4.3.0": {
-      "sha512": "P/+BR/2lnc4PNDHt/TPBAWHVMLMRHsyYZbU1NphW4HIWzCggz8mJbTQQ3MKljFE7LS3WagmVFuBgoLcFzYXlkA==",
+      "sha512": "Ik4AXGvCLcAQZ2QksmRJnZUdYAdEjGn0pPkKm0ooRbLYH2zqbcKFnGrFo6zIyrbHCeSin1jCdegIViqxQ3ZUww==",
       "type": "package",
       "path": "system.security.claims/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -14297,10 +14309,11 @@
       ]
     },
     "System.Threading/4.3.0": {
-      "sha512": "VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
+      "sha512": "4j+rHu0q/NVTrCrtwVeVy1WXpzMTB+V63DG2pI2aopEurxLtjYxqYFB0RQRahClkAzonmF7rTTPLnAGRfbV37w==",
       "type": "package",
       "path": "system.threading/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -14846,10 +14859,11 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
+      "sha512": "xsnq6w3/S+NeYkUtxoCEDAn2Z+AkgvGLvJnslrTRte4jEU+fkR3DVG+s0sBmQYQ4c3r8949PaGg8AnRb9bBc2w==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -14952,10 +14966,11 @@
       ]
     },
     "System.Xml.XPath/4.3.0": {
-      "sha512": "v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
+      "sha512": "8Eo7vuasWRqXfiBRCIKz20Rq1h6n+NMp6nW2RmyUwF4VDekg8xbRZu8S3N21P5XGAhv+kaqUwI3xydEkcw+D5w==",
       "type": "package",
       "path": "system.xml.xpath/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -15100,27 +15115,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wsjun\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\TemplateCore\\TemplateCore.csproj",
+      "projectUniqueName": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\TemplateCore\\TemplateCore.csproj",
       "projectName": "TemplateCore",
-      "projectPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\TemplateCore\\TemplateCore.csproj",
-      "packagesPath": "C:\\Users\\wsjun\\.nuget\\packages\\",
-      "outputPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\TemplateCore\\obj\\",
+      "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\TemplateCore\\TemplateCore.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\TemplateCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wsjun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -15132,14 +15144,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\Application\\Application.csproj": {
-              "projectPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\Application\\Application.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\Application\\Application.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\Application\\Application.csproj"
             },
-            "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj": {
-              "projectPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork.Extension.RabbitMQ\\BasisFrameWork.Extension.RabbitMQ.csproj"
             },
-            "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
-              "projectPath": "E:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
+            "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj": {
+              "projectPath": "G:\\vs2017\\Play\\TemplateCore\\TemplateCore\\FrameworkCore\\BasisFrameWork\\BasisFrameWork.csproj"
             }
           }
         }

@@ -32,7 +32,13 @@ namespace TemplateCore.Controllers
         [HttpPost("v1/set")]
         public async Task<JsonResult> Set([FromBody] InputDto input)
         {
+            return await Task.FromResult(Json(input));
+        }
 
+        [HttpPost("v1/setComplexModel")]
+        public async Task<JsonResult> Set([Bind("Name,AppointmentDate")]ComplexTypeInputDto input)
+        {
+            input.Id = Guid.NewGuid().ToString();
             return await Task.FromResult(Json(input));
         }
 

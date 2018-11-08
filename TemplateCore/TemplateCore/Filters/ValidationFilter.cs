@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using BasisFrameWork.Extension;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace TemplateCore.Filters {
     public class ValidationFilter:ActionFilterAttribute {
@@ -12,7 +13,8 @@ namespace TemplateCore.Filters {
         {
             if (!context.ModelState.IsValid)
             {
-                var message = context.ModelState.Values.Take(1).SingleOrDefault();
+                var message = context.ModelState.Values.Where(it => it.ValidationState != ModelValidationState.Valid).FirstOrDefault();
+               // var message = context.ModelState.Values.Take(1).SingleOrDefault();
                 context.Result = new ContentResult
                 {
                     Content = message?.Errors.Where(it => !it.ErrorMessage.IsNullOrEmpty()).Take(1).SingleOrDefault()
